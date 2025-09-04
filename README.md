@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Ferds
 
 💻 **Network Engineer | CCNP | Developer**
- 
 
 ---
 
