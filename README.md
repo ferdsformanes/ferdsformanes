@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Ferds
 
 💻 **Network Engineer | CCNP | Developer**
-
-I specialize in **network automation, API integrations, and Python scripting**.  
-Currently building tools, streamlining workflows, and sharing knowledge through code and videos.  
+ 
 
 ---
 
