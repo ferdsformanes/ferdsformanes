@@ -2,12 +2,10 @@
 
 💻 **Network Engineer | Developer | Automation Enthusiast**
 
-I specialize in **network automation, Python scripting, and DevOps tools**.  
-Currently building tools and sharing knowledge through code and videos.  
+I specialize in **network automation, API integrations, and Python scripting**.  
+Currently building tools, streamlining workflows, and sharing knowledge through code and videos.  
 
 ---
-
-## 🚀 Skills & Tools
 
 ## 🚀 Skills & Tools
 
@@ -18,7 +16,6 @@ Currently building tools and sharing knowledge through code and videos.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 ---
 
@@ -32,9 +29,8 @@ Currently building tools and sharing knowledge through code and videos.
 ## 📺 Content & Connect
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FerdsTechChannel)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferdsformanes)
 
 ---
 
-✨ *Always learning, building, and automating networks and workflows with code and APIs.*
-
+✨ *Always learning, building, and automating with code, APIs, and smart workflows.*
