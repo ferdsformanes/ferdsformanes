@@ -33,4 +33,3 @@ Currently building tools, streamlining workflows, and sharing knowledge through 
 
 ---
 
-✨ *Always learning, building, and automating with code, APIs, and smart workflows.*
