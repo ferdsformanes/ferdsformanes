@@ -1,11 +1,11 @@
 ## 🚀 Skills & Tools
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Network Automation
-![Netmiko](https://img.shields.io/badge/Netmiko-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
+### ⚡ Automation & Programming
+- **Programming**
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Network Automation**
+  - ![Netmiko](https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+  - ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
