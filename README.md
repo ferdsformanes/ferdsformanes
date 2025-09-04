@@ -1,9 +1,3 @@
-# 👋 Hi, I’m Ferds
-
-💻 **Network Engineer | CCNP | Developer**
-
----
-
 ## 🚀 Skills & Tools
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
