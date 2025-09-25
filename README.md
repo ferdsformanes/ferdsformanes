@@ -45,12 +45,12 @@
 </div>
 
 ### 📊 Monitoring & Dashboards
-<div>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge" />
+  <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=&logoColor=white" alt="Entuity Badge" />
+  <img src="URL_TO_HIGH_QUALITY_ENTUITY_LOGO" alt="Entuity Logo" height="40" />
 </div>
-<div>
-  <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" alt="Entuity Badge" />
-</div>
+
 
 ### 💻 Operating Systems
 <div>
