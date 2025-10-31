@@ -14,6 +14,8 @@
 <div>
   <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nornir-4B275F?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### 🌐 Web Development
