@@ -5,12 +5,12 @@
 <td width="50%" valign="top">
 
 ### ⚡ Automation & Programming
-**Programming**  
+### 💻 Programming  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-**Network Automation**  
+### 🔁 Network Automation
 <div>
   <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
