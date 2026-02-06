@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Automation & Programming
+### 🤖⚡ Automation & Programming
 ### 💻 Programming  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
