@@ -5,7 +5,6 @@
 <td width="50%" valign="top">
 
 ### 🤖⚡ Automation & Programming
-### 💻 Programming  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
@@ -39,19 +38,21 @@
 ### 🗄️ Databases
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+### 📊 Monitoring & Dashboards 
+<div>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" />
 </div>
 
 ### 🌐 Networking
 <div>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
-
-### 📊 Monitoring & Dashboards 
-<div> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> </div> 
-<div> <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" alt="Entuity Badge" /> 
-</div>
-
 
 ### 💻 Operating Systems
 <div>
