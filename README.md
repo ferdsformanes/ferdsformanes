@@ -53,6 +53,7 @@
 ### 🌐 Networking
 <div>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/HPE%20Networking-00B388?style=for-the-badge&logo=hewlettpackard&logoColor=white" />
 </div>
 
 ### 💻 Operating Systems
