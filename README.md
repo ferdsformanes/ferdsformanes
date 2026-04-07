@@ -4,6 +4,14 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🔁 Network Automation
+<div>
+  <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nornir-4B275F?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
 ### 🤖⚡ Automation & Programming
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -13,14 +21,6 @@
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>
-
-### 🔁 Network Automation
-<div>
-  <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nornir-4B275F?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### 🌐 Web Development
