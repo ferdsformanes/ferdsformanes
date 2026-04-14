@@ -47,13 +47,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### 📊 Monitoring & Dashboards 
+### 📊 Monitoring & Dashboards
 <div>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/SolarWinds%20NPM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
 </div>
 
 ### 🌐 Networking
