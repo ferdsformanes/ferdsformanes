@@ -19,7 +19,7 @@
 <p><b>🔗 APIs</b></p>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL%20API-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </div>
 
 <br>
