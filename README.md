@@ -21,7 +21,7 @@
 </div>
 
 <!-- Tools -->
-<p><b>⚙️ Tools</b></p>
+<p><b>⚙️ Libraries & Frameworks</b></p>
 <div>
   <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
