@@ -89,7 +89,8 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" />
-  <img src="https://img.shields.io/badge/SolarWinds%20NPM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
+<img src="https://img.shields.io/badge/SolarWinds%20NPM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
+<img src="https://img.shields.io/badge/SolarWinds%20NCM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
 </div>
 
 <br>
