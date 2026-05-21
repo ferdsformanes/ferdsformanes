@@ -8,7 +8,9 @@
 <div>
   <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-ff69b4?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nautobot-2E8B57?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBox-007ACC?style=for-the-badge&logo=netbox&logoColor=white" />
   <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Nornir-4B275F?style=for-the-badge&logo=python&logoColor=white" />
 </div>
