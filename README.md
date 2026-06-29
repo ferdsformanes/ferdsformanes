@@ -6,6 +6,14 @@
 
 ### 🔁 Network Automation
 
+<!-- Automation Platforms -->
+<p><b>🤖 Automation Platforms</b></p>
+<div style="display:flex; flex-wrap:wrap; gap:8px;">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+</div>
+
+<br>
+
 <!-- Source of Truth -->
 <p><b>📚 Source of Truth</b></p>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
@@ -24,8 +32,8 @@
 
 <br>
 
-<!-- Libraries -->
-<p><b>⚙️ Libraries & Frameworks</b></p>
+<!-- Python Libraries -->
+<p><b>⚙️ Python Libraries</b></p>
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Netmiko-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NAPALM-00A3E0?style=for-the-badge&logo=python&logoColor=white" />
@@ -89,8 +97,8 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:8px;">
   <img src="https://img.shields.io/badge/Entuity-0072C6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iMyIgZmlsbD0iIzAwNzJDNiIvPjwvc3ZnPg==" />
-<img src="https://img.shields.io/badge/SolarWinds%20NPM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
-<img src="https://img.shields.io/badge/SolarWinds%20NCM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolarWinds%20NPM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolarWinds%20NCM-4DB6E2?style=for-the-badge&logo=solarwinds&logoColor=white" />
 </div>
 
 <br>
